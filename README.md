@@ -1,4 +1,4 @@
-# ImageCompressionByClustering
+# Image Compression By Clustering
 This repository is about the process of image compression utilizing Unsupervised Machine Learning Algorithm. 
 
 Compression of an image is necessary for Computer Vision. Thereby reducing the unecessary details of an image and processing it to such an extent so it yields only the minimal neccesary features of the image sufficient for Computer Vision. Otherwise, it will increase both space and time complexity for processing an image.
